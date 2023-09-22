@@ -16,7 +16,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-##COPT PASTE THESE TWO LINK TO USE TILTING ANIMATION 
+## COPT PASTE THESE TWO LINK TO USE TILTING ANIMATION 
 
     <!-- JQuery -->
     <script
